@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+.container {
+    height: 200px;
+    width: 500px;
+    border: 1px solid black;
+    margin-left: 300px;
+}
+
+form {
+    border: 2px solid blue;
+    height: 200px;
+    width: 500px;
+    margin-left: 80px;
+    z-index: 2;
+}
